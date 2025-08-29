@@ -1,0 +1,19 @@
+Routing in Express JS
+
+1.Routing happens in ExpressJS in apis
+2.Routing can be done in all http method apis
+3.GET POST PUT DELETE
+4.Basic Routing
+
+app.get("/") ==> This is / Route Basic level Routing
+
+app.get("/register")
+app.get("/login")
+
+
+AI will won't take your job. the person using ai will take your jab
+
+to learn AI ...you need to learn how to code
+
+The Only way to get a job is to...
+snatch a job from a person who doesnt want learn to code
